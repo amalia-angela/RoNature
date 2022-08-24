@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="1dp"
+    android:orientation="vertical"
+    app:cardBackgroundColor="@color/colorGrey"
+    app:contentPadding="2dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/commenterIV"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/ic_account_black" />
+
+        <TextView
+            android:id="@+id/commenterTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/commenterIV"
+            android:text="Name"
+            android:textColor="@color/colorWhite"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/commentTimeTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/commenterTxt"
+            android:layout_toEndOf="@id/commenterIV"
+            android:layout_toRightOf="@id/commenterIV"
+            android:text="5/11/2022"
+            android:textColor="@color/colorWhite"
+            android:textStyle="italic"
+            android:textSize="13dp"/>
+
+        <TextView
+            android:id="@+id/commentTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/commentTimeTxt"
+            android:layout_toEndOf="@id/commenterIV"
+            android:layout_toRightOf="@id/commenterIV"
+            android:text="Comment text"
+            android:textColor="@color/colorWhite"
+            android:textSize="18dp" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
