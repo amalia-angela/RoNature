@@ -13,6 +13,10 @@ RoNature is a social media application. The reason for choosing creating this ap
 
 The app start with autentification, users can sign in with an existing account or sign in with a new one. 
 
+
+https://user-images.githubusercontent.com/79534873/228297621-c9d6cbb4-ee04-4598-900b-c8b8310d055d.mp4
+
+
 Each user has a profile, where user info can be added or photos can be posted.
 
 There is a home page, where all the posts appear in order by time created  and user can interact with each other.
