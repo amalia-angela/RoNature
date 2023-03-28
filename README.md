@@ -39,20 +39,17 @@ And there is a chat option where people can communicate directly in private.
   <tr>
     <td>
       <video autoplay>
-        <source src="Demo videos/profil.mp4" type="video/mp4">
+        <source src="Demo videos/petal_20220629_222402.mp4" type="video/mp4">
       </video>
     </td>
     <td>
       <video autoplay>
-        <source src="Demo videos/home page.mp4" type="video/mp4">
+        <source src="Demo videos/petal_20220629_222507.mp4" type="video/mp4">
       </video>
     </td>
     
   </tr>
 </table>
-
-
-
 
 
 
