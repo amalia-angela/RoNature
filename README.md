@@ -15,22 +15,11 @@ The app start with autentification, users can sign in with an existing account o
 Each user has a profile, where user info can be added or photos can be posted. 
 There is a home page, where all the posts appear in order by time created  and user can interact with each other.
 
-<table>
-  <tr>
-    <td>
-      <video autoplay>
-        <source src="Demo videos/profil.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video autoplay>
-        <source src="Demo videos/home page.mp4" type="video/mp4">
-      </video>
-    </td>
-    
-  </tr>
-</table>
+<video src="https://github.com/amalia-angela/RoNature/blob/master/Demo%20videos/sigin.mp4" type="video/mp4"/> <video src="https://github.com/amalia-angela/RoNature/blob/master/Demo%20videos/profil.mp4" type="video/mp4"/>
 
+<video controls>
+  <source src="https://github.com/amalia-angela/RoNature/blob/master/Demo%20videos/sigin.mp4" type="video/mp4">
+</video>
 
 And there is a chat option where people can communicate directly in private.
 
@@ -38,8 +27,7 @@ And there is a chat option where people can communicate directly in private.
 <table>
   <tr>
     <td>
-      <video autoplay>
-        <source src="Demo videos/petal_20220629_222402.mp4" type="video/mp4">
+      <video  src="Demo videos/petal_20220629_222402.mp4" type="video/mp4">
       </video>
     </td>
     <td>
