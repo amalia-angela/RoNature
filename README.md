@@ -16,10 +16,16 @@ Each user has a profile, where user info can be added or photos can be posted.
 There is a home page, where all the posts appear in order by time created  and user can interact with each other.
 
 <video src="https://github.com/amalia-angela/RoNature/blob/master/Demo%20videos/sigin.mp4" type="video/mp4"/> <video src="https://github.com/amalia-angela/RoNature/blob/master/Demo%20videos/profil.mp4" type="video/mp4"/>
-
-<video controls>
-  <source src="https://github.com/amalia-angela/RoNature/blob/master/Demo%20videos/sigin.mp4" type="video/mp4">
-</video>
+<table>
+  <tr>
+    <td>
+      <video src="https://github.com/amalia-angela/RoNature/blob/master/Demo%20videos/sigin.mp4" type="video/mp4"/>
+    </td>
+    <td>
+      <video src="https://github.com/amalia-angela/RoNature/blob/master/Demo%20videos/profil.mp4" type="video/mp4"/>
+    </td>    
+  </tr>
+</table>
 
 And there is a chat option where people can communicate directly in private.
 
@@ -27,15 +33,11 @@ And there is a chat option where people can communicate directly in private.
 <table>
   <tr>
     <td>
-      <video  src="Demo videos/petal_20220629_222402.mp4" type="video/mp4">
-      </video>
+      <video src="Demo videos/petal_20220629_222402.mp4" type="video/mp4"/>
     </td>
     <td>
-      <video autoplay>
-        <source src="Demo videos/petal_20220629_222507.mp4" type="video/mp4">
-      </video>
-    </td>
-    
+      <video src="Demo videos/petal_20220629_222507.mp4" type="video/mp4"/>
+    </td>    
   </tr>
 </table>
 
