@@ -14,7 +14,8 @@ RoNature is a social media application. The reason for choosing creating this ap
 The app start with autentification, users can sign in with an existing account or sign in with a new one. 
 
 
-https://user-images.githubusercontent.com/79534873/228297621-c9d6cbb4-ee04-4598-900b-c8b8310d055d.mp4 https://user-images.githubusercontent.com/79534873/228298759-db57cb7a-fea6-4bd4-a771-dcade1445c4a.mp4
+https://user-images.githubusercontent.com/79534873/228297621-c9d6cbb4-ee04-4598-900b-c8b8310d055d.mp4 
+https://user-images.githubusercontent.com/79534873/228298759-db57cb7a-fea6-4bd4-a771-dcade1445c4a.mp4
 
 
 
